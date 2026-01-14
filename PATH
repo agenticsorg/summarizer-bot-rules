@@ -1,0 +1,4 @@
+# See if there's something specific (first category+channel, then channel), if not just the type
+/v1/discord/{category}/{channel}/{type}.md
+/v1/discord/{channel}/{type}.md
+/v1/discord/{type}.md
